@@ -1,4 +1,4 @@
-# Advanced Natural Language to SQL with Generative AI
+# Advanced Natural Language to SQL with LLMs
 
 This repository demonstrates the cutting-edge capabilities of generative AI in the realm of database querying. The Jupyter notebook within showcases the application of OpenAI's `gpt-3.5-turbo-16k-0613` model in transforming complex natural language queries into SQL queries, which are then executed on a SQLite database.
 
